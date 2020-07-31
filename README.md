@@ -1,4 +1,4 @@
-#Modelling 
+Modelling 
 Linear regression 
 
 Multilinear regression 
